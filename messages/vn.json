@@ -1,0 +1,15 @@
+{
+  "appName": "Ứng dụng I18N",
+  "nav": {
+    "title": "Nam đẹp trai",
+    "home": "Trang chủ",
+    "shop": "Cửa hàng",
+    "about": "Về chúng tôi",
+    "blog": "Blog",
+    "contactus": "Liên hệ với chúng tôi"
+  },
+  "mainPage": {
+    "section_1": "Next.js là một framework React để xây dựng các ứng dụng web đầy đủ. Bạn sử dụng các thành phần React để xây dựng giao diện người dùng và Next.js cho các tính năng và tối ưu hóa bổ sung.",
+    "section_2": "Ở phía bên trong, Next.js còn trừu tượng hóa và tự động cấu hình các công cụ cần thiết cho React, như bundling (gộp file), compiling (biên dịch), và nhiều thứ khác. Điều này giúp bạn tập trung vào việc xây dựng ứng dụng thay vì tốn thời gian cho việc cấu hình."
+  }
+}
